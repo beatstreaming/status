@@ -2,6 +2,22 @@ owner: activmediacorp
 repo: status
 
 sites:
+  - name: Beat
+    url: https://beatstreaming.com
+  - name: Beat Lossless
+    url: https://lossless.api.beatstreaming.com
+  - name: Beat CDN
+    url: https://cdn.beatstreaming.com
+  - name: Beat Proxy
+    url: https://proxy.beatstreaming.com
+  - name: Beat API
+    url: https://api.beatstreaming.com
+  - name: Beat Music
+    url: https://music.api.beatstreaming.com
+  - name: Beat Music Player
+    url: https://player.music.api.beatstreaming.com
+  - name: Beat Stream
+    url: https://stream.api.beatstreaming.com
 
 status-website:
   baseUrl: /status
