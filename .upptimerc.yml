@@ -18,6 +18,12 @@ sites:
     url: https://player.music.api.beatstreaming.com
   - name: Beat Stream
     url: https://stream.api.beatstreaming.com
+  - name: Show Server
+    url: https://server.show.api.beatstreaming.com
+  - name: Show Meta
+    url: https://meta.show.api.beatstreaming.com
+  - name: Show Stream
+    url: https://stream.show.api.beatstreaming.com
 
 status-website:
   baseUrl: /status
